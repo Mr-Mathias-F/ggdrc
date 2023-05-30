@@ -8,7 +8,7 @@ The `drc` package in R is a powerful tool for fitting dose-response curves, howe
 
 - **User-friendly interface**: The package has been designed with simplicity in mind, allowing even novices to create beautiful and complex visualizations.
   
-- **Customizable visuals**: `drc-ggplot2` extends the plotting capabilities of `drc` by leveraging `ggplot2` functionalities. Customize your dose-response curves with different color schemes, themes, scales, facets, and much more.
+- **Customizable visuals**: `ggdrc` extends the plotting capabilities of `drc` by leveraging `ggplot2` functionalities. Customize your dose-response curves with different color schemes, themes, scales, facets, and much more.
 
 - **Enhanced output**: Create high-resolution graphics suited for both presentations and publications.
 
